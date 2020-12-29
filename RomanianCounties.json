@@ -1,0 +1,1370 @@
+{
+  "name": "Romania",
+  "countiesNumber": "41",
+  "citiesNumber": "320",
+  "capital": "Bucureşti",
+  "counties": [
+    {
+      "id": "AB",
+      "name": "Alba",
+      "capitalCity": "Alba Iulia",
+      "region": "Transilvania",
+      "population": "327224",
+      "area": "6242",
+      "cities": [
+        {
+          "name": "Aiud"
+        },
+        {
+          "name": "Alba Iulia"
+        },
+        {
+          "name": "Blaj"
+        },
+        {
+          "name": "Sebeş"
+        },
+        {
+          "name": "Abrud"
+        },
+        {
+          "name": "Baia de Arieş"
+        },
+        {
+          "name": "Câmpeni"
+        },
+        {
+          "name": "Cugir"
+        },
+        {
+          "name": "Ocna Mureş"
+        },
+        {
+          "name": "Ţeiuş"
+        },
+        {
+          "name": "Zlatna"
+        }
+      ]
+    },
+    {
+      "id": "AR",
+      "name": "Arad",
+      "capitalCity": "Arad",
+      "region": "Crişana",
+      "population": "409072",
+      "area": "7754",
+      "cities": [
+        {
+          "name": "Arad"
+        },
+        {
+          "name": "Chişneu-Criş"
+        },
+        {
+          "name": "Curtici"
+        },
+        {
+          "name": "Ineu"
+        },
+        {
+          "name": "Lipova"
+        },
+        {
+          "name": "Nădlac"
+        },
+        {
+          "name": "Pâncota"
+        },
+        {
+          "name": "Pecica"
+        },
+        {
+          "name": "Sântana"
+        },
+        {
+          "name": "Sebiş"
+        }
+      ]
+    },
+    {
+      "id": "AG",
+      "name": "Argeş",
+      "capitalCity": "Piteşti",
+      "region": "Muntenia",
+      "population": "612431",
+      "area": "6862",
+      "cities": [
+        {
+          "name": "Câmpulung"
+        },
+        {
+          "name": "Curea de Argeş"
+        },
+        {
+          "name": "Piteşti"
+        },
+        {
+          "name": "Costeşti"
+        },
+        {
+          "name": "Mioveni"
+        },
+        {
+          "name": "Ştefăneşti"
+        },
+        {
+          "name": "Topoloveni"
+        }
+      ]
+    },
+    {
+      "id": "BC",
+      "name": "Bacău",
+      "capitalCity": "Bacău",
+      "region": "Moldova",
+      "population": "616168",
+      "area": "6621",
+      "cities": [
+        {
+          "name": "Bacău"
+        },
+        {
+          "name": "Moineşti"
+        },
+        {
+          "name": "Oneşti"
+        },
+        {
+          "name": "Buhuşi"
+        },
+        {
+          "name": "Comăneşti"
+        },
+        {
+          "name": "Dărmăneşti"
+        },
+        {
+          "name": "Slănic-Moldova"
+        },
+        {
+          "name": "Târgu Ocna"
+        }
+      ]
+    },
+    {
+      "id": "BH",
+      "name": "Bihor",
+      "capitalCity": "Oradea",
+      "region": "Crişana",
+      "population": "575398",
+      "area": "7544",
+      "cities": [
+        {
+          "name": "Beiuş"
+        },
+        {
+          "name": "Marghita"
+        },
+        {
+          "name": "Oradea"
+        },
+        {
+          "name": "Salonta"
+        },
+        {
+          "name": "Aleşd"
+        },
+        {
+          "name": "Nucet"
+        },
+        {
+          "name": "Săuceni"
+        },
+        {
+          "name": "Ştei"
+        },
+        {
+          "name": "Valea lui Mihai"
+        },
+        {
+          "name": "Vaşcău"
+        }
+      ]
+    },
+    {
+      "id": "BN",
+      "name": "Bistriţa-Năsăud",
+      "capitalCity": "Bistriţa",
+      "region": "Transilvania",
+      "population": "277861",
+      "area": "5355",
+      "cities": [
+        {
+          "name": "Bistriţa"
+        },
+        {
+          "name": "Beclean"
+        },
+        {
+          "name": "Năsăud"
+        },
+        {
+          "name": "Sângeorz-Băi"
+        }
+      ]
+    },
+    {
+      "id": "BT",
+      "name": "Botoşani",
+      "capitalCity": "Botoşani",
+      "region": "Moldova",
+      "population": "412626",
+      "area": "4986",
+      "cities": [
+        {
+          "name": "Botoşani"
+        },
+        {
+          "name": "Dorohoi"
+        },
+        {
+          "name": "Bucecea"
+        },
+        {
+          "name": "Darabani"
+        },
+        {
+          "name": "Flămânzi"
+        },
+        {
+          "name": "Săveni"
+        },
+        {
+          "name": "Ştefăneşti"
+        }
+      ]
+    },
+    {
+      "id": "BR",
+      "name": "Brăila",
+      "capitalCity": "Brăila",
+      "region": "Muntenia",
+      "population": "304925",
+      "area": "4766",
+      "cities": [
+        {
+          "name": "Brăila"
+        },
+        {
+          "name": "Făurei"
+        },
+        {
+          "name": "Ianca"
+        },
+        {
+          "name": "Însurăţei"
+        }
+      ]
+    },
+    {
+      "id": "BV",
+      "name": "Braşov",
+      "capitalCity": "Braşov",
+      "region": "Transilvania",
+      "population": "549217",
+      "area": "5363",
+      "cities": [
+        {
+          "name": "Braşov"
+        },
+        {
+          "name": "Codlea"
+        },
+        {
+          "name": "Făgăraş"
+        },
+        {
+          "name": "Săcele"
+        },
+        {
+          "name": "Ghimbav"
+        },
+        {
+          "name": "Predeal"
+        },
+        {
+          "name": "Râşnov"
+        },
+        {
+          "name": "Rupea"
+        },
+        {
+          "name": "Victoria"
+        },
+        {
+          "name": "Zărneşti"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Bucureşti",
+      "region": "Muntenia",
+      "population": "1883425",
+      "area": "228",
+      "sector": [
+        {
+          "name": "Sector 1"
+        },
+        {
+          "name": "Sector 2"
+        },
+        {
+          "name": "Sector 3"
+        },
+        {
+          "name": "Sector 4"
+        },
+        {
+          "name": "Sector 5"
+        },
+        {
+          "name": "Sector 6"
+        }
+      ]
+    },
+    {
+      "id": "BZ",
+      "name": "Buzău",
+      "capitalCity": "Buzău",
+      "region": "Muntenia",
+      "population": "432054",
+      "area": "6103",
+      "cities": [
+        {
+          "name": "Buzău"
+        },
+        {
+          "name": "Râmnicu Sărat"
+        },
+        {
+          "name": "Nehoiu"
+        },
+        {
+          "name": "Pătârlagele"
+        },
+        {
+          "name": "Pogoanele"
+        }
+      ]
+    },
+    {
+      "id": "CL",
+      "name": "Călăraşi",
+      "capitalCity": "Călăraşi",
+      "region": "Muntenia",
+      "population": "285050",
+      "area": "5088",
+      "cities": [
+        {
+          "name": "Călăraşi"
+        },
+        {
+          "name": "Olteniţa"
+        },
+        {
+          "name": "Budeşti"
+        },
+        {
+          "name": "Fundulea"
+        },
+        {
+          "name": "Lehliu-Gară"
+        }
+      ]
+    },
+    {
+      "id": "CS",
+      "name": "Caraş-Severin",
+      "capitalCity": "Reşiţa",
+      "region": "Banat",
+      "population": "274277",
+      "area": "8514",
+      "cities": [
+        {
+          "name": "Caransebeş"
+        },
+        {
+          "name": "Reşiţa"
+        },
+        {
+          "name": "Anina"
+        },
+        {
+          "name": "Băile Herculane"
+        },
+        {
+          "name": "Bocşa"
+        },
+        {
+          "name": "Moldova Nouă"
+        },
+        {
+          "name": "Oraviţa"
+        },
+        {
+          "name": "Oţelul Roşu"
+        }
+      ]
+    },
+    {
+      "id": "CJ",
+      "name": "Cluj",
+      "capitalCity": "Cluj-Napoca",
+      "region": "Transilvania",
+      "population": "691106",
+      "area": "6674",
+      "cities": [
+        {
+          "name": "Câmpia Turzii"
+        },
+        {
+          "name": "Cluj-Napoca"
+        },
+        {
+          "name": "Dej"
+        },
+        {
+          "name": "Gherla"
+        },
+        {
+          "name": "Turda"
+        },
+        {
+          "name": "Huedin"
+        }
+      ]
+    },
+    {
+      "id": "CT",
+      "name": "Constanţa",
+      "capitalCity": "Constanţa",
+      "region": "Dobrogea",
+      "population": "684082",
+      "area": "7071",
+      "cities": [
+        {
+          "name": "Constanţa"
+        },
+        {
+          "name": "Mangalia"
+        },
+        {
+          "name": "Medgidia"
+        },
+        {
+          "name": "Cernavodă"
+        },
+        {
+          "name": "Eforie"
+        },
+        {
+          "name": "Hârşova"
+        },
+        {
+          "name": "Murfatlar"
+        },
+        {
+          "name": "Năvodari"
+        },
+        {
+          "name": "Negru Vodă"
+        },
+        {
+          "name": "Ovidiu"
+        },
+        {
+          "name": "Techirghiol"
+        }
+      ]
+    },
+    {
+      "id": "CV",
+      "name": "Covasna",
+      "capitalCity": "Sfântu Gheorghe",
+      "region": "Transilvania",
+      "population": "210177",
+      "area": "3710",
+      "cities": [
+        {
+          "name": "Sfântu Gheorghe"
+        },
+        {
+          "name": "Târgu Secuiesc"
+        },
+        {
+          "name": "Baraolt"
+        },
+        {
+          "name": "Covasna"
+        },
+        {
+          "name": "Întorsura Buzăului"
+        }
+      ]
+    },
+    {
+      "id": "DB",
+      "name": "Dâmboviţa",
+      "capitalCity": "Târgovişte",
+      "region": "Muntenia",
+      "population": "518745",
+      "area": "4054",
+      "cities": [
+        {
+          "name": "Moreni"
+        },
+        {
+          "name": "Târgovişte"
+        },
+        {
+          "name": "Fieni"
+        },
+        {
+          "name": "Găeşti"
+        },
+        {
+          "name": "Pucioasa"
+        },
+        {
+          "name": "Răcari"
+        },
+        {
+          "name": "Titu"
+        }
+      ]
+    },
+    {
+      "id": "DJ",
+      "name": "Dolj",
+      "capitalCity": "Craiova",
+      "region": "Oltenia",
+      "population": "660544",
+      "area": "7414",
+      "cities": [
+        {
+          "name": "Băileşti"
+        },
+        {
+          "name": "Calafat"
+        },
+        {
+          "name": "Craiova"
+        },
+        {
+          "name": "Bechet"
+        },
+        {
+          "name": "Dăbuleni"
+        },
+        {
+          "name": "Filiaşi"
+        },
+        {
+          "name": "Segarcea"
+        }
+      ]
+    },
+    {
+      "id": "GL",
+      "name": "Galaţi",
+      "capitalCity": "Galaţi",
+      "region": "Moldova",
+      "population": "536167",
+      "area": "4466",
+      "cities": [
+        {
+          "name": "Galaţi"
+        },
+        {
+          "name": "Tecuci"
+        },
+        {
+          "name": "Bereşti"
+        },
+        {
+          "name": "Târgu Bujor"
+        }
+      ]
+    },
+    {
+      "id": "GR",
+      "name": "Giurgiu",
+      "capitalCity": "Giurgiu",
+      "region": "Muntenia",
+      "population": "265494",
+      "area": "3526",
+      "cities": [
+        {
+          "name": "Giurgiu"
+        },
+        {
+          "name": "Bolintin-Vale"
+        },
+        {
+          "name": "Mihăileşti"
+        }
+      ]
+    },
+    {
+      "id": "GJ",
+      "name": "Gorj",
+      "capitalCity": "Târgu Jiu",
+      "region": "Oltenia",
+      "population": "334238",
+      "area": "5602",
+      "cities": [
+        {
+          "name": "Motru"
+        },
+        {
+          "name": "Târgu Jiu"
+        },
+        {
+          "name": "Bumbeşti-Jiu"
+        },
+        {
+          "name": "Novaci"
+        },
+        {
+          "name": "Rovinari"
+        },
+        {
+          "name": "Târgu Cărbuneşti"
+        },
+        {
+          "name": "Ţicleni"
+        },
+        {
+          "name": "Tismana"
+        },
+        {
+          "name": "Turceni"
+        }
+      ]
+    },
+    {
+      "id": "HR",
+      "name": "Harghita",
+      "capitalCity": "Miercurea Ciuc",
+      "region": "Transilvania",
+      "population": "304969",
+      "area": "6639",
+      "cities": [
+        {
+          "name": "Gheorgheni"
+        },
+        {
+          "name": "Miercurea Ciuc"
+        },
+        {
+          "name": "Odorheiu Secuiesc"
+        },
+        {
+          "name": "Topliţa"
+        },
+        {
+          "name": "Băile Tuşnad"
+        },
+        {
+          "name": "Bălan"
+        },
+        {
+          "name": "Borsec"
+        },
+        {
+          "name": "Cristuru Secuiesc"
+        },
+        {
+          "name": "Vlăhiţa"
+        }
+      ]
+    },
+    {
+      "id": "HD",
+      "name": "Hunedoara",
+      "capitalCity": "Deva",
+      "region": "Transilvania",
+      "population": "396253",
+      "area": "7063",
+      "cities": [
+        {
+          "name": "Brad"
+        },
+        {
+          "name": "Deva"
+        },
+        {
+          "name": "Hunedoara"
+        },
+        {
+          "name": "Lupeni"
+        },
+        {
+          "name": "Orăştie"
+        },
+        {
+          "name": "Petroşani"
+        },
+        {
+          "name": "Vulcan"
+        },
+        {
+          "name": "Aninoasa"
+        },
+        {
+          "name": "Călan"
+        },
+        {
+          "name": "Geoagiu"
+        },
+        {
+          "name": "Haţeg"
+        },
+        {
+          "name": "Petrila"
+        },
+        {
+          "name": "Simeria"
+        },
+        {
+          "name": "Uricani"
+        }
+      ]
+    },
+    {
+      "id": "IL",
+      "name": "Ialomiţa",
+      "capitalCity": "Slobozia",
+      "region": "Muntenia",
+      "population": "258669",
+      "area": "4453",
+      "cities": [
+        {
+          "name": "Feteşti"
+        },
+        {
+          "name": "Slobozia"
+        },
+        {
+          "name": "Urziceni"
+        },
+        {
+          "name": "Amara"
+        },
+        {
+          "name": "Căzăneşti"
+        },
+        {
+          "name": "Fierbinţi-Târg"
+        },
+        {
+          "name": "Ţăndărei"
+        }
+      ]
+    },
+    {
+      "id": "IS",
+      "name": "Iaşi",
+      "capitalCity": "Iaşi",
+      "region": "Moldova",
+      "population": "772348",
+      "area": "5476",
+      "cities": [
+        {
+          "name": "Iaşi"
+        },
+        {
+          "name": "Paşcani"
+        },
+        {
+          "name": "Hârtlău"
+        },
+        {
+          "name": "Podu Iloaiei"
+        },
+        {
+          "name": "Târgu Frumos"
+        }
+      ]
+    },
+    {
+      "id": "IF",
+      "name": "Ilfov",
+      "capitalCity": "Bucureşti",
+      "region": "Muntenia",
+      "population": "388738",
+      "area": "1583"
+    },
+    {
+      "id": "MM",
+      "name": "Maramureş",
+      "capitalCity": "Baia Mare",
+      "region": "Maramureş",
+      "population": "516562",
+      "area": "6304",
+      "cities": [
+        {
+          "name": "Baia Mare"
+        },
+        {
+          "name": "Sighetu Marmaţiei"
+        },
+        {
+          "name": "Baia Sprie"
+        },
+        {
+          "name": "Borşa"
+        },
+        {
+          "name": "Cavnic"
+        },
+        {
+          "name": "Dragomireşti"
+        },
+        {
+          "name": "Săliştea de Sus"
+        },
+        {
+          "name": "Seini"
+        },
+        {
+          "name": "Şomcuta Mare"
+        },
+        {
+          "name": "Târgu Lăpuş"
+        },
+        {
+          "name": "Tăiuţii-Măgherăuş"
+        },
+        {
+          "name": "Ulmeni"
+        },
+        {
+          "name": "Vişeu de Sus"
+        }
+      ]
+    },
+    {
+      "id": "MH",
+      "name": "Mehedinţi",
+      "capitalCity": "Drobeta-Turnu Severin",
+      "region": "Oltenia",
+      "population": "254570",
+      "area": "4933",
+      "cities": [
+        {
+          "name": "Drobeta-Turnu Severin"
+        },
+        {
+          "name": "Orşova"
+        },
+        {
+          "name": "Baia de Aramă"
+        },
+        {
+          "name": "Strehaia"
+        },
+        {
+          "name": "Vânju Mare"
+        }
+      ]
+    },
+    {
+      "id": "MS",
+      "name": "Mureş",
+      "capitalCity": "Târgu Mureş",
+      "region": "Transilvania",
+      "population": "550846",
+      "area": "6714",
+      "cities": [
+        {
+          "name": "Târgu Mureş"
+        },
+        {
+          "name": "Reghin"
+        },
+        {
+          "name": "Sighişoara"
+        },
+        {
+          "name": "Târnăveni"
+        },
+        {
+          "name": "Iernut"
+        },
+        {
+          "name": "Luduş"
+        },
+        {
+          "name": "Miercurea Nirajului"
+        },
+        {
+          "name": "Sângeorgiu de Pădure"
+        },
+        {
+          "name": "Sărmaşu"
+        },
+        {
+          "name": "Sovata"
+        },
+        {
+          "name": "Ungheni"
+        }
+      ]
+    },
+    {
+      "id": "NT",
+      "name": "Neamţ",
+      "capitalCity": "Piatra Neamţ",
+      "region": "Moldova",
+      "population": "470766",
+      "area": "5897",
+      "cities": [
+        {
+          "name": "Piatra Neamţ"
+        },
+        {
+          "name": "Roman"
+        },
+        {
+          "name": "Bicaz"
+        },
+        {
+          "name": "Roznov"
+        },
+        {
+          "name": "Târgu Neamţ"
+        }
+      ]
+    },
+    {
+      "id": "OT",
+      "name": "Olt",
+      "capitalCity": "Slatina",
+      "region": "Oltenia",
+      "population": "415530",
+      "area": "5498",
+      "cities": [
+        {
+          "name": "Caracal"
+        },
+        {
+          "name": "Slatina"
+        },
+        {
+          "name": "Balş"
+        },
+        {
+          "name": "Corabia"
+        },
+        {
+          "name": "Drăgăneşti-Olt"
+        },
+        {
+          "name": "Piatra Olt"
+        },
+        {
+          "name": "Potcoava"
+        },
+        {
+          "name": "Scorniceşti"
+        }
+      ]
+    },
+    {
+      "id": "PH",
+      "name": "Prahova",
+      "capitalCity": "Ploieşti",
+      "region": "Muntenia",
+      "population": "762886",
+      "area": "4716",
+      "cities": [
+        {
+          "name": "Câmpina"
+        },
+        {
+          "name": "Ploieşti"
+        },
+        {
+          "name": "Azuga"
+        },
+        {
+          "name": "Băicoi"
+        },
+        {
+          "name": "Boldeşti-Scăeni"
+        },
+        {
+          "name": "Breaza"
+        },
+        {
+          "name": "Buşteni"
+        },
+        {
+          "name": "Comarnic"
+        },
+        {
+          "name": "Mizil"
+        },
+        {
+          "name": "Plopeni"
+        },
+        {
+          "name": "Sinaia"
+        },
+        {
+          "name": "Slănic"
+        },
+        {
+          "name": "Urlaţi"
+        },
+        {
+          "name": "Vălenii de Munte"
+        }
+      ]
+    },
+    {
+      "id": "SJ",
+      "name": "Sălaj",
+      "capitalCity": "Zalău",
+      "region": "Crişana",
+      "population": "224384",
+      "area": "3864,38",
+      "cities": [
+        {
+          "name": "Zalău"
+        },
+        {
+          "name": "Cehu Silvaniei"
+        },
+        {
+          "name": "Jibou"
+        },
+        {
+          "name": "Şimleu Silvaniei"
+        }
+      ]
+    },
+    {
+      "id": "SM",
+      "name": "Satu Mare",
+      "capitalCity": "Satu Mare",
+      "region": "Maramureş",
+      "population": "329079",
+      "area": "4418",
+      "cities": [
+        {
+          "name": "Satu Mare"
+        },
+        {
+          "name": "Carei"
+        },
+        {
+          "name": "Ardud"
+        },
+        {
+          "name": "Livada"
+        },
+        {
+          "name": "Nergreşti-Oaş"
+        },
+        {
+          "name": "Tăşnad"
+        }
+      ]
+    },
+    {
+      "id": "SB",
+      "name": "Sibiu",
+      "capitalCity": "Sibiu",
+      "region": "Transilvania",
+      "population": "375992",
+      "area": "5432",
+      "cities": [
+        {
+          "name": "Mediaş"
+        },
+        {
+          "name": "Sibiu"
+        },
+        {
+          "name": "Agnita"
+        },
+        {
+          "name": "Avrig"
+        },
+        {
+          "name": "Cisnădie"
+        },
+        {
+          "name": "Copşa Mică"
+        },
+        {
+          "name": "Dumbrăveni"
+        },
+        {
+          "name": "Miercurea Sibiului"
+        },
+        {
+          "name": "Ocna Sibiului"
+        },
+        {
+          "name": "Sălişte"
+        },
+        {
+          "name": "Tălmaciu"
+        }
+      ]
+    },
+    {
+      "id": "SV",
+      "name": "Suceava",
+      "capitalCity": "Suceava",
+      "region": "Bucovina",
+      "population": "634810",
+      "area": "8553",
+      "cities": [
+        {
+          "name": "Câmpulung Moldovenesc"
+        },
+        {
+          "name": "Fălticeni"
+        },
+        {
+          "name": "Rădăuţi"
+        },
+        {
+          "name": "Suceava"
+        },
+        {
+          "name": "Vatra Dornei"
+        },
+        {
+          "name": "Broşteni"
+        },
+        {
+          "name": "Cajvana"
+        },
+        {
+          "name": "Dolhasca"
+        },
+        {
+          "name": "Frasin"
+        },
+        {
+          "name": "Gura Humorului"
+        },
+        {
+          "name": "Liteni"
+        },
+        {
+          "name": "Milşăuţi"
+        },
+        {
+          "name": "Salcea"
+        },
+        {
+          "name": "Siret"
+        },
+        {
+          "name": "Solca"
+        },
+        {
+          "name": "Vicovu de Sus"
+        }
+      ]
+    },
+    {
+      "id": "TR",
+      "name": "Teleorman",
+      "capitalCity": "Alexandria",
+      "region": "Muntenia",
+      "population": "360178",
+      "area": "5790",
+      "cities": [
+        {
+          "name": "Alexandria"
+        },
+        {
+          "name": "Roşiorii de Vede"
+        },
+        {
+          "name": "Turnu Măgurele"
+        },
+        {
+          "name": "Videle"
+        },
+        {
+          "name": "Zimnicea"
+        }
+      ]
+    },
+    {
+      "id": "TM",
+      "name": "Timiş",
+      "capitalCity": "Timişoara",
+      "region": "Banat",
+      "population": "683540",
+      "area": "8697",
+      "cities": [
+        {
+          "name": "Timişoara"
+        },
+        {
+          "name": "Lugoj"
+        },
+        {
+          "name": "Sânnicolau Mare"
+        },
+        {
+          "name": "Jimbolia"
+        },
+        {
+          "name": "Recaş"
+        },
+        {
+          "name": "Făget"
+        },
+        {
+          "name": "Buziaş"
+        },
+        {
+          "name": "Deta"
+        },
+        {
+          "name": "Gătaia"
+        },
+        {
+          "name": "Ciacova"
+        }
+      ]
+    },
+    {
+      "id": "TL",
+      "name": "Tulcea",
+      "capitalCity": "Tulcea",
+      "region": "Dobrogea",
+      "population": "201462",
+      "area": "8499",
+      "cities": [
+        {
+          "name": "Tulcea"
+        },
+        {
+          "name": "Babadag"
+        },
+        {
+          "name": "Isaccea"
+        },
+        {
+          "name": "Măcin"
+        },
+        {
+          "name": "Sulin"
+        }
+      ]
+    },
+    {
+      "id": "VL",
+      "name": "Vâlcea",
+      "capitalCity": "Râmnicu Valcea",
+      "region": "Muntenia",
+      "population": "355320",
+      "area": "5765",
+      "cities": [
+        {
+          "name": "Drăgăşani"
+        },
+        {
+          "name": "Râmnicu Vâlcea"
+        },
+        {
+          "name": "Băbeni"
+        },
+        {
+          "name": "Băile Govora"
+        },
+        {
+          "name": "Bălceşti"
+        },
+        {
+          "name": "Berbeşti"
+        },
+        {
+          "name": "Brezoi"
+        },
+        {
+          "name": "Călimăneşti"
+        },
+        {
+          "name": "Horezu"
+        },
+        {
+          "name": "Ocnele Mari"
+        }
+      ]
+    },
+    {
+      "id": "VS",
+      "name": "Vaslui",
+      "capitalCity": "Vaslui",
+      "region": "Moldova",
+      "population": "395500",
+      "area": "5318",
+      "cities": [
+        {
+          "name": "Bârlad"
+        },
+        {
+          "name": "Huşi"
+        },
+        {
+          "name": "Vaslui"
+        },
+        {
+          "name": "Murgeni"
+        },
+        {
+          "name": "Negreşti"
+        }
+      ]
+    },
+    {
+      "id": "VN",
+      "name": "Vrancea",
+      "capitalCity": "Focşani",
+      "region": "Moldova",
+      "population": "340310",
+      "area": "4857",
+      "cities": [
+        {
+          "name": "Adjud"
+        },
+        {
+          "name": "Focşani"
+        },
+        {
+          "name": "Mărăşeşti"
+        },
+        {
+          "name": "Odobeşti"
+        },
+        {
+          "name": "Panciu"
+        }
+      ]
+    }
+  ]
+}
