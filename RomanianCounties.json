@@ -805,7 +805,32 @@
       "capitalCity": "Bucureşti",
       "region": "Muntenia",
       "population": "388738",
-      "area": "1583"
+      "area": "1583",
+      "cities": [
+        {
+          "name": "Bragadiru"
+        },
+        {
+          "name": "Buftea"
+        },
+        {
+          "name": "Chitila"
+        },
+        {
+          "name": "Măgurele"
+        },
+        {
+          "name": "Pantelimon"
+        },
+        {
+          "name": "Popeşti-Leordeni"
+        },
+        {
+          "name": "Otopeni"
+        },
+        {
+          "name": "Voluntari"
+        }
     },
     {
       "id": "MM",
