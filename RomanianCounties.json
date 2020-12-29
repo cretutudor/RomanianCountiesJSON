@@ -313,7 +313,7 @@
       "region": "Muntenia",
       "population": "1883425",
       "area": "228",
-      "sector": [
+      "sectors": [
         {
           "name": "Sector 1"
         },
